@@ -22,7 +22,7 @@
     "android": {
       "config": {
         "googleMaps": {
-          "apiKey": "XXXXXXXXXXXXXXXXXXXXXX"
+          "apiKey": "XXXXXXXXXXXXXXXXXXX"
         }
       },
       "package": "com.distrital_ipiranga.Distrital"
